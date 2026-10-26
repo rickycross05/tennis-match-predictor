@@ -1,0 +1,13 @@
+# Ambienti virtuali Python
+venv/
+env/
+.env
+
+# File temporanei Mac
+.DS_Store
+
+# Cartelle Jupyter
+.ipynb_checkpoints/
+
+# (Opzionale) Ignora i file dati se sono troppo pesanti
+# data/*.csv
